@@ -7,7 +7,7 @@ Fashion Fusion is a MERN stack-based platform designed to empower fashion store 
 
 ![image](https://github.com/user-attachments/assets/70ed1197-c73d-4ee0-ada0-280c3cc3b463)
 
-
+## Demo : https://www.youtube.com/watch?v=vuCNzY31WEI
 
 Fashion Fusion enables store owners to:
 - Manage inventory with ease.
